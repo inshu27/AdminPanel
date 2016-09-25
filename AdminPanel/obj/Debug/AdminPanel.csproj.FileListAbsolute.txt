@@ -1,0 +1,9 @@
+c:\users\inshu\documents\visual studio 2012\Projects\AdminPanel\AdminPanel\bin\Debug\AdminPanel.exe
+c:\users\inshu\documents\visual studio 2012\Projects\AdminPanel\AdminPanel\bin\Debug\AdminPanel.pdb
+c:\users\inshu\documents\visual studio 2012\Projects\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csprojResolveAssemblyReference.cache
+c:\users\inshu\documents\visual studio 2012\Projects\AdminPanel\AdminPanel\obj\Debug\AdminPanel.Splash.resources
+c:\users\inshu\documents\visual studio 2012\Projects\AdminPanel\AdminPanel\obj\Debug\AdminPanel.Properties.Resources.resources
+c:\users\inshu\documents\visual studio 2012\Projects\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csproj.GenerateResource.Cache
+c:\users\inshu\documents\visual studio 2012\Projects\AdminPanel\AdminPanel\obj\Debug\AdminPanel.exe
+c:\users\inshu\documents\visual studio 2012\Projects\AdminPanel\AdminPanel\obj\Debug\AdminPanel.pdb
+c:\users\inshu\documents\visual studio 2012\Projects\AdminPanel\AdminPanel\obj\Debug\AdminPanel.AdminControl.resources
